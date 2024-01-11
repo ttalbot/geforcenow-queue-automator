@@ -8,7 +8,7 @@ Install nodejs
 npm install
 ```
 rename .env.default to .env
-Edit paths in .env file to match your environment
+Edit paths in .env file to match your environment.
 Disable sleep in your system configuration.
 
 ## Run
